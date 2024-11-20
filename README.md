@@ -6,7 +6,7 @@
 
 El proyecto incluye **dos versiones**:
 1. Una versión **gráfica** con interfaz amigable, ideal para usuarios no técnicos.
-2. Una versión basada en **terminal**, más sencilla y rápida para quienes prefieren un enfoque minimalista.
+2. Una versión basada en **terminal**, más sencilla y rápida para quienes prefieren un enfoque minimalista. https://github.com/barrierj93/Buscador-de-carreras/tree/main/v1_Terminal 
 
 ---
 
