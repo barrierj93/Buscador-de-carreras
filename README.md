@@ -1,8 +1,8 @@
 
-# Career Search Tool
+# Degree Search Tool
 
 ## Descripción
-**Career Search Tool** es una herramienta diseñada para consultar las notas de corte de distintas carreras universitarias a partir de un archivo Excel o CSV. Es útil para buscar información específica sobre universidades y grados, mostrando los resultados de forma clara y estructurada.
+**Degree Search Tool** es una herramienta diseñada para consultar las notas de corte de distintas carreras universitarias a partir de un archivo Excel o CSV. Es útil para buscar información específica sobre universidades y grados, mostrando los resultados de forma clara y estructurada.
 
 El proyecto incluye **dos versiones**:
 1. Una versión **gráfica** con interfaz amigable, ideal para usuarios no técnicos.
