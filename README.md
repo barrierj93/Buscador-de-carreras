@@ -2,6 +2,7 @@
 # Degree Search Tool
 
 ## Descripción
+Desarrollado para simplificar la consulta de notas de corte y facilitar el acceso a información universitaria.
 **Degree Search Tool** es una herramienta diseñada para consultar las notas de corte de distintas carreras universitarias a partir de un archivo Excel o CSV. Es útil para buscar información específica sobre universidades y grados, mostrando los resultados de forma clara y estructurada.
 
 El proyecto incluye **dos versiones**:
@@ -104,7 +105,7 @@ El proyecto incluye **dos versiones**:
 ---
 
 ## Autor
-Desarrollado para simplificar la consulta de notas de corte y facilitar el acceso a información universitaria.
+@barrierj93
 
 ## Licencia
 Uso personal o educativo.
