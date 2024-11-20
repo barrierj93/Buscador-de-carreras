@@ -61,7 +61,7 @@ El proyecto incluye **dos versiones**:
 
 ---
 
-### **Versión 2: Basada en terminal**
+### **Versión 2: Basada en terminal (`career_finder.py`)**
 
 1. **Ejecución**: Ejecuta el archivo `career_finder.py` desde la terminal:
    ```bash
